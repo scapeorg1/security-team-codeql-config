@@ -30,5 +30,5 @@ query-filters:
     tags:
         -/cwe/-029/
     problems.severity:
-   	    - warning
-   	    - recommendation
+        - warning
+        - recommendation
